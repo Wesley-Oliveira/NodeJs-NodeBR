@@ -1,2 +1,2 @@
 # NodeJs-NodeBR
-Imersão em desenvolvimento de APIs com Node.js - NodeBR
+Immersion in API development with Node.js - NodeBR
